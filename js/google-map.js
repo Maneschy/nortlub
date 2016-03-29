@@ -8,7 +8,7 @@
 
         function init() {
             var mapOptions = {
-                center: new google.maps.LatLng(23.825527, 90.429862),
+                center: new google.maps.LatLng(-2.960594, -60.074390),
                 zoom: 15,
                 zoomControl: false,
                 zoomControlOptions: {
@@ -40,7 +40,7 @@
             var mapElement = document.getElementById('mapBox');
             var map = new google.maps.Map(mapElement, mapOptions);
             var locations = [
-                ['', 23.825527, 90.429862]
+                ['', -2.960594, -60.074390]
             ]
         }    
     })(jQuery);

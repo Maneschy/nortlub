@@ -39,86 +39,8 @@
     <div id="pageloader" class="row m0">
         <div class="loader-item"><img src="images/loader-lub.png" alt="carregando"></div>
     </div> 
-    <section id="nr_topStrip" class="row">
-        <!--<div class="container">
-            <div class="row">
-                <ul class="list-inline c-info fleft">
-                    <li><a href="tel:123456789012"><i class="fa fa-phone"></i> 1234-5678-9012</a></li>
-                    <li><a href="mailto:info@domain.com"><i class="fa fa-envelope-o"></i> info@domain.com</a></li>
-                </ul>
-                <ul class="list-inline lang fright">
-                    <li class="active"><a href="#"><img src="images/flags/flag1.png" alt=""></a></li>
-                    <li><a href="#"><img src="images/flags/flag2.png" alt=""></a></li>
-                    <li><a href="#"><img src="images/flags/flag3.png" alt=""></a></li>
-                    <li><a href="#"><img src="images/flags/flag4.png" alt=""></a></li>
-                </ul>
-            </div>
-        </div>-->
-    </section> <!--Top Strip-->
-    
-    <header class="row" style="background: url(images/fundo-topo.png) ;">
-        <div class="container">
-            <div class="row" >
-                <div class="logo col-sm-6">
-                    <div class="row">
-                        <a href="index.html"><img src="images/logo-nortlub.png" alt="NortLub Reciclagem"></a>
-                    </div>
-                </div>
-                <div class="social_nav col-sm-6">
-                    <div class="row">
-                        <ul class="list-inline fright">
-                            <li><a href="#"><i class="fa fa-youtube"></i></a></li>
-                            <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </header> <!--Header-->
-    
-    <nav class="navbar navbar-default navbar-static-top" style="background-image: url(images/bg-concrete.png); border-top: 3px solid #333;">
-        <div class="container-fluid container">
-            <div class="row m04m">
-                <div class="navbar-header">
-                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main_nav">
-                        <span class="bars">
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                        </span>
-                        <span class="btn-text">selecione</span>
-                    </button>
-                </div>
-                <div class="collapse navbar-collapse" id="main_nav">
-                    <ul class="nav navbar-nav">
-                        <li><a href="index.html">Home</a></li>                        
-                        <li class=" dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">NORT<b>LUB</b></a>
-                            <ul class="dropdown-menu" role="menu">
-                                <li><a href="#">História</a></li>
-                                <li><a href="#">Estrutura</a></li>                                <li><a href="#">Equipe</a></li>                                <li><a href="#">Documentos</a></li>
-                            </ul>
-                        </li>                        
-                        <li class=" dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">SERVIÇOS</a>
-                            <ul class="dropdown-menu" role="menu">
-                                <li><a href="#">Coleta de OLUC</a></li>                                <li><a href="#">Rerrefino de OLUC</a></li>                                <li><a href="#">Limpeza de tanques</a></li>                                <li><a href="#">Limpeza de balsas</a></li>                                <li><a href="#">Coleta de RS</a></li>                                <li><a href="#">Limpeza de caixa HP</a></li>                                <li><a href="#">Tratamento de água</a></li>                                <li><a href="#">Análise laboratorial</a></li>
-                            </ul>
-                        </li>                        
-                        <li class=" dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">PRODUTOS</a>
-                            <ul class="dropdown-menu" role="menu">
-                                <li><a href="#">Óleo Lubrificante</a></li>                                <li><a href="#">Graxa Lubrificante</a></li>
-                            </ul>
-                        </li>                                                <li class=" dropdown">                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">AÇÕES</a>                            <ul class="dropdown-menu" role="menu">                                <li><a href="#">Parceria Social</a></li>                                <li><a href="#">Meio Ambiente</a></li>                            </ul>                        </li>
-                        <li class=" dropdown">                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">CONTATO</a>                            <ul class="dropdown-menu" role="menu">                                <li><a href="#">Seja um revendedor</a></li>                            </ul>                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </nav> <!--Main Nav-->
-    
+   
+    <?php include './menu_nortlub.php'; ?>     
     <section id="nr_slider" class="row">
         <div class="mainSliderContainer">
             <div class="mainSlider" >
@@ -264,7 +186,7 @@
         </div>
         
     </section> <!--Slider-->    <br/><br/>
-    <section id="projects" class="row fullWidth col3 page">                <div class="container">        <div class="row sectionTitles">            <h2 class="sectionTitle">PRODUTOS</h2>            <div class="sectionSubTitle">Seja um revendedor, <a href="#">clique aqui</a></div>        </div>            <div class="row">                        <div class="row projects m0">                                    <div class="project mix">                        <a href="images/produtos/produto-1.jpg" data-lightbox="project" data-title="Central Hospital (building)">                            <img src="images/produtos/produto-1.jpg" alt="Project 1" class="projectImg">                        </a>                        <div class="projectDetails row m0">                            <div class="fleft nameType">                                <div class="row m0 projectName">Central Hospital</div>                                <div class="row m0 projectType">building</div>                            </div>                            <div class="fright projectIcons btn-group" role="group">                                <a href="#" style=" border-radius: 5px;" class="btn btn-default"><i class="fa fa-plus"></i></a>                                <a href="#" style="padding: 10px; border-radius: 5px; background-color: #006738;" class="btn-default"><i class="fa fa-lock"> comprar</i></a>                            </div>                        </div>                    </div>                                        <div class="project mix">                        <a href="images/produtos/produto-2.jpg" data-lightbox="project" data-title="Construction CEO (ceo, architect)">                            <img src="images/produtos/produto-2.jpg" alt="Project 1" class="projectImg">                        </a>                        <div class="projectDetails row m0">                            <div class="fleft nameType">                                <div class="row m0 projectName">Construction CEO</div>                                <div class="row m0 projectType">ceo, architect</div>                            </div>                            <div class="fright projectIcons btn-group" role="group">                                <a href="#" style=" border-radius: 5px;" class="btn btn-default"><i class="fa fa-plus"></i></a>                                <a href="#" style="padding: 10px; border-radius: 5px; background-color: #006738;" class="btn-default"><i class="fa fa-lock"> comprar</i></a>                            </div>                        </div>                    </div>                                        <div class="project mix">                        <a href="images/produtos/produto-1.jpg" data-lightbox="project" data-title="Big Trucks on Action (cat, building)">                            <img src="images/produtos/produto-1.jpg" alt="Project 1" class="projectImg">                        </a>                        <div class="projectDetails row m0">                            <div class="fleft nameType">                                <div class="row m0 projectName">Big Trucks on Action</div>                                <div class="row m0 projectType">cat, building</div>                            </div>                            <div class="fright projectIcons btn-group" role="group">                                <a href="#" style=" border-radius: 5px;" class="btn btn-default"><i class="fa fa-plus"></i></a>                                <a href="#" style="padding: 10px; border-radius: 5px; background-color: #006738;" class="btn-default"><i class="fa fa-lock"> comprar</i></a>                            </div>                        </div>                    </div>                </div>                              </div>        </div>    </section>    
+    <section id="projects" class="row fullWidth col3 page">                <div class="container">        <div class="row sectionTitles">            <h2 class="sectionTitle">PRODUTOS</h2>            <div class="sectionSubTitle">Seja um revendedor, <a href="#">clique aqui</a></div>        </div>            <div class="row">                        <div class="row projects m0">                                    <div class="project mix">                        <a href="images/produtos/produto-1.jpg" data-lightbox="project" data-title="Central Hospital (building)">                            <img src="images/produtos/produto-1.jpg" alt="Project 1" class="projectImg">                        </a>                        <div class="projectDetails row m0 ">                            <div class="fleft nameType">                                <div class="row m0 projectName">Óleo Automotivo 40sj</div>                                <div class="row m0 projectType"><b>R$ 7,00</b></div>                            </div>                            <div class="fright projectIcons btn-group" role="group">                                <a href="#" style=" border-radius: 5px;" class="btn btn-default"><i class="fa fa-plus"></i></a>                                <a href="#" style="padding: 10px; border-radius: 5px; background-color: #006738;" class="btn-default"><i class="fa fa-lock"> comprar</i></a>                            </div>                        </div>                    </div>                                        <div class="project mix">                        <a href="images/produtos/produto-2.jpg" data-lightbox="project" data-title="Construction CEO (ceo, architect)">                            <img src="images/produtos/produto-2.jpg" alt="Project 1" class="projectImg">                        </a>                        <div class="projectDetails row m0">                            <div class="fleft nameType">                                <div class="row m0 projectName">Graxa Sólida</div>                                <div class="row m0 projectType"><b>R$ 7,00</b></div>                            </div>                            <div class="fright projectIcons btn-group" role="group">                                <a href="#" style=" border-radius: 5px;" class="btn btn-default"><i class="fa fa-plus"></i></a>                                <a href="#" style="padding: 10px; border-radius: 5px; background-color: #006738;" class="btn-default"><i class="fa fa-lock"> comprar</i></a>                            </div>                        </div>                    </div>                                        <div class="project mix">                        <a href="images/produtos/produto-1.jpg" data-lightbox="project" data-title="Big Trucks on Action (cat, building)">                            <img src="images/produtos/produto-1.jpg" alt="Project 1" class="projectImg">                        </a>                        <div class="projectDetails row m0">                            <div class="fleft nameType">                                <div class="row m0 projectName">Óleo Automotivo 50s</div>                                <div class="row m0 projectType"><b>R$ 7,00</b></div>                            </div>                            <div class="fright projectIcons btn-group" role="group">                                <a href="#" style=" border-radius: 5px;" class="btn btn-default"><i class="fa fa-plus"></i></a>                                <a href="#" style="padding: 10px; border-radius: 5px; background-color: #006738;" class="btn-default"><i class="fa fa-lock"> comprar</i></a>                            </div>                        </div>                    </div>                </div>                              </div>        </div>    </section>    
     <section id="nr_services" class="row">
         <div class="container">
             <div class="row sectionTitles">
@@ -303,7 +225,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div>            <section id="projects" class="row fullWidth col3 page">                        <div class="container">                    <div class="row">                <div class="row filters m0">                                        <ul class="list-inline text-center collapse navbar-collapse" >                                                <li class="filter" ><a href="#">SERVIÇO</a></li>                        <li class="filter" data-filter=".producao">Produção</li>                        <li class="filter" data-filter=".frota">Frota</li>                        <li class="filter" data-filter=".diversos">Diversos</li>                    </ul>                </div>                </div>                </div>                </section>
         </div>
     </section> <!--Services-->
     
@@ -493,18 +415,7 @@
         </div>
     </section> <!--Elements-->
     
-    <footer id="nr_footer" class="row">
-        <div class="container">
-            <div class="row goTop">
-                <a href="#top"><i class="fa fa-angle-up"></i></a>
-            </div>
-            
-            <div class="row copyrightRow" style="font-weight: 100;">
-                copyrights &copy; 2016 • NorteLub • todos os direitos reservados • by <a href="#">Maneschy.com</a>
-            </div>
-        </div>
-    </footer>
-    
+    <?php include './footer_nortlub.php'; ?>
     
     <!--jQuery, Bootstrap and other vendor JS-->
     <script src="js/jquery-2.1.3.min.js"></script>
