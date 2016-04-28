@@ -94,28 +94,21 @@
                        <img src="images/slider/fundo-vermelho.jpg" alt="slidebg1"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
                        <div class="caption sfr str"  
                            data-x="-100" 
-                           data-y="75" 
+                           data-y="125" 
                            data-speed="700"  
                            data-start="1700" 
                            data-easing="easeOutBack">
                             <h3>Conheça nossa linha de<br/> óleos lubrificantes Automotivos</h3>
                        </div>
-                       <div class="caption sfl stl"  
-                           data-x="-100" 
-                           data-y="165" 
-                           data-speed="500" 
-                           data-start="1900" 
-                           data-easing="easeOutBack">
-                            <h2><strong>Rerrefinados</strong> </h2>
-                       </div>
+                      
                        <div class="caption skewfromleft skewtoleft"  
                            data-x="-100" 
-                           data-y="265"
+                           data-y="235"
                            data-hoffset="-176" 
                            data-speed="500" 
                            data-start="1900" 
                            data-easing="easeOutBack">
-                           <p style="font-weight: 400;">Esse é um processo industrial de alta complexidade e <br/>tecnologia avançada, que transforma o óleo lubrificante <br/>usado em óleo mineral básico de alta qualidade, <br/>mantendo a mesma qualidade do primeiro refino,<br/> mesmo desempenho e produtividade.</p>
+                           <p style="font-weight: 400;">O processo de rerrefino é industrial de alta complexidade e <br/>tecnologia avançada, que transforma o óleo lubrificante <br/>usado em óleo mineral básico de alta qualidade, <br/>mantendo a mesma qualidade do primeiro refino,<br/> mesmo desempenho e produtividade.</p>
                        </div>
                        <div class="caption sfb stb"  
                            data-x="-100" 
@@ -190,7 +183,8 @@
     <section id="nr_services" class="row">
         <div class="container">
             <div class="row sectionTitles">
-                <h2 class="sectionTitle">PRINCIPAIS SERVIÇOS</h2>                <div class="sectionSubTitle">Veja todos <a href="#">aqui</a></div>
+                <h2 class="sectionTitle">PRINCIPAIS SERVIÇOS</h2>
+                <div class="sectionSubTitle">• • •</div>
             </div>
             <div class="row m0 text-center">
                 <div class="col-sm-3">
@@ -232,38 +226,25 @@
     <section id="projects" class="row fullWidth">
         <div class="row sectionTitles m0">
             <h2 class="sectionTitle">NOSSA ESTRUTURA</h2>
-            <div class="sectionSubTitle">• • •</div>
+            <div class="sectionSubTitle">Veja tudo <a href="nortlub_estrutura.php">aqui</a></div>
         </div>
         
         <div class="row projects m0">        
+                        
             <div class="project mix">
-                <a href="images/projects/project1.png" data-lightbox="estrutura" data-title="LEGENDA DA FOTO">
-                    <img src="images/projects/project1.png" alt="LEGENDA DA FOTO" class="projectImg">
+                <a href="images/estrutura/produ-06.jpg" data-lightbox="home" data-title="Área de Produção">
+                    <img src="images/estrutura/produ-06.jpg" alt="Área de Produção" class="projectImg">
                 </a>
             </div>            
             <div class="project mix">
-                <a href="images/projects/project2.png" data-lightbox="estrutura" data-title="LEGENDA DA FOTO">
-                    <img src="images/projects/project2.png" alt="LEGENDA DA FOTO" class="projectImg">
-                </a>
-            </div>            
-            <div class="project mix">
-                <a href="images/projects/project3.png" data-lightbox="estrutura" data-title="LEGENDA DA FOTO">
-                    <img src="images/projects/project3.png" alt="LEGENDA DA FOTO" class="projectImg">
-                </a>
-            </div>            
-            <div class="project mix">
-                <a href="images/projects/project4.png" data-lightbox="estrutura" data-title="LEGENDA DA FOTO">
-                    <img src="images/projects/project4.png" alt="LEGENDA DA FOTO" class="projectImg">
-                </a>
-            </div>            
-            <div class="project mix">
-                <a href="images/projects/project5.png" data-lightbox="estrutura" data-title="LEGENDA DA FOTO">
-                    <img src="images/projects/project5.png" alt="LEGENDA DA FOTO" class="projectImg">
+                <a href="images/estrutura/produ-01-1.jpg" data-lightbox="home" data-title="Área de Produção">
+                    <img src="images/estrutura/produ-01-1.jpg" alt="Área de Produção" class="projectImg">
                 </a>
             </div>
+            
             <div class="project mix">
-                <a href="images/projects/project6.png" data-lightbox="estrutura" data-title="LEGENDA DA FOTO">
-                    <img src="images/projects/project6.png" alt="LEGENDA DA FOTO" class="projectImg">
+                <a href="images/estrutura/frota-01.jpg" data-lightbox="home" data-title="Frota de veículos">
+                    <img src="images/estrutura/frota-01.jpg" alt="Área de Produção" class="projectImg">
                 </a>
             </div>
         </div>        

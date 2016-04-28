@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>NortLub Lubrificantes • Análise Laboratorial</title>
+    <title>NortLub Lubrificantes • Graxas</title>
     
     <!--Favicons-->
     <link rel="apple-touch-icon" sizes="57x57" href="favicon/apple-touch-icon-57x57.png">
