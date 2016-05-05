@@ -78,7 +78,7 @@
                            data-hoffset="-105"
                            data-speed="500" 
                            data-start="1900" 
-                           data-easing="easeOutBack"><div class="ico_box"><a href="#"><img src="images/selos/selo-arvore.png" alt="brifcase"></a></div>
+                           data-easing="easeOutBack"><div class="ico_box"><a href="#"><img src="images/selos/selo-aguia.png" alt="brifcase"></a></div>
                        </div>                                              <div class="caption sfb stb"                             data-x="center"                            data-y="310"                            data-hoffset="90"                           data-speed="500"                            data-start="1900"                            data-easing="easeOutBack"><div class="ico_box"><a href="#"><img src="images/selos/selo-onca.png" alt="brifcase"></a></div>                       </div>
                        <div class="caption skewfromright skewtoright"  
                            data-x="center" 
@@ -86,7 +86,7 @@
                            data-hoffset="290"
                            data-speed="500" 
                            data-start="1900" 
-                           data-easing="easeOutBack"><div class="ico_box"><a href="#"><img src="images/selos/selo-macaco.png" alt="brifcase"></a></div>
+                           data-easing="easeOutBack"><div class="ico_box"><a href="#"><img src="images/selos/selo-boto.png" alt="brifcase"></a></div>
                        </div>                       
                     </li>  
                     <!-- SLIDE 2 -->
@@ -179,47 +179,47 @@
         </div>
         
     </section> <!--Slider-->    <br/><br/>
-    <section id="projects" class="row fullWidth col3 page">                <div class="container">        <div class="row sectionTitles">            <h2 class="sectionTitle">PRODUTOS</h2>            <div class="sectionSubTitle">Seja um revendedor, <a href="#">clique aqui</a></div>        </div>            <div class="row">                        <div class="row projects m0">                                    <div class="project mix">                        <a href="images/produtos/produto-1.jpg" data-lightbox="project" data-title="Central Hospital (building)">                            <img src="images/produtos/produto-1.jpg" alt="Project 1" class="projectImg">                        </a>                        <div class="projectDetails row m0 ">                            <div class="fleft nameType">                                <div class="row m0 projectName">Óleo Automotivo 40sj</div>                                <div class="row m0 projectType"><b>R$ 7,00</b></div>                            </div>                            <div class="fright projectIcons btn-group" role="group">                                <a href="#" style=" border-radius: 5px;" class="btn btn-default"><i class="fa fa-plus"></i></a>                                <a href="#" style="padding: 10px; border-radius: 5px; background-color: #006738;" class="btn-default"><i class="fa fa-lock"> comprar</i></a>                            </div>                        </div>                    </div>                                        <div class="project mix">                        <a href="images/produtos/produto-2.jpg" data-lightbox="project" data-title="Construction CEO (ceo, architect)">                            <img src="images/produtos/produto-2.jpg" alt="Project 1" class="projectImg">                        </a>                        <div class="projectDetails row m0">                            <div class="fleft nameType">                                <div class="row m0 projectName">Graxa Sólida</div>                                <div class="row m0 projectType"><b>R$ 7,00</b></div>                            </div>                            <div class="fright projectIcons btn-group" role="group">                                <a href="#" style=" border-radius: 5px;" class="btn btn-default"><i class="fa fa-plus"></i></a>                                <a href="#" style="padding: 10px; border-radius: 5px; background-color: #006738;" class="btn-default"><i class="fa fa-lock"> comprar</i></a>                            </div>                        </div>                    </div>                                        <div class="project mix">                        <a href="images/produtos/produto-1.jpg" data-lightbox="project" data-title="Big Trucks on Action (cat, building)">                            <img src="images/produtos/produto-1.jpg" alt="Project 1" class="projectImg">                        </a>                        <div class="projectDetails row m0">                            <div class="fleft nameType">                                <div class="row m0 projectName">Óleo Automotivo 50s</div>                                <div class="row m0 projectType"><b>R$ 7,00</b></div>                            </div>                            <div class="fright projectIcons btn-group" role="group">                                <a href="#" style=" border-radius: 5px;" class="btn btn-default"><i class="fa fa-plus"></i></a>                                <a href="#" style="padding: 10px; border-radius: 5px; background-color: #006738;" class="btn-default"><i class="fa fa-lock"> comprar</i></a>                            </div>                        </div>                    </div>                </div>                              </div>        </div>    </section>    
+    <section id="projects" class="row fullWidth col3 page">                <div class="container">        <div class="row sectionTitles">            <h2 class="sectionTitle">PRODUTOS</h2>            <div class="sectionSubTitle">Seja um revendedor, <a href="contato.php">clique aqui</a></div>        </div>            <div class="row">                        <div class="row projects m0">                                    <div class="project mix">                        <a href="images/produtos/oleo-nautico.jpg" data-lightbox="nautico" data-title="Óleo Lubrificante Náutico 30TCW3">                            <img src="images/produtos/oleo-nautico.jpg" alt="Lubrificantes" class="projectImg">                        </a>                        <div class="projectDetails row m0 ">                            <div class="fleft nameType">                                <div class="row m0 projectName">Óleo Náutico 30TCW3</div>                                <div class="row m0 projectType"><b>R$ 7,00</b></div>                            </div>                            <div class="fright projectIcons btn-group" role="group">                                <a href="#" style=" border-radius: 5px;" class="btn btn-default"><i class="fa fa-plus"></i></a>                                <a href="#" style="padding: 10px; border-radius: 5px; background-color: #006738;" class="btn-default"><i class="fa fa-lock"> comprar</i></a>                            </div>                        </div>                    </div>                                        <div class="project mix">                        <a href="images/produtos/graxa-solida.jpg" data-lightbox="graxa" data-title="Graxa Sólida AM2 NORTLUB">                            <img src="images/produtos/graxa-solida.jpg" alt="GRAXAS" class="projectImg">                        </a>                        <div class="projectDetails row m0">                            <div class="fleft nameType">                                <div class="row m0 projectName">Graxa Sólida AM2</div>                                <div class="row m0 projectType"><b>R$ 7,00</b></div>                            </div>                            <div class="fright projectIcons btn-group" role="group">                                <a href="#" style=" border-radius: 5px;" class="btn btn-default"><i class="fa fa-plus"></i></a>                                <a href="#" style="padding: 10px; border-radius: 5px; background-color: #006738;" class="btn-default"><i class="fa fa-lock"> comprar</i></a>                            </div>                        </div>                    </div>                                        <div class="project mix">                        <a href="images/produtos/oleo-automotivo.jpg" data-lightbox="automotivo" data-title="Óleo Lubrificante Automotivo 40SJ">                            <img src="images/produtos/oleo-automotivo.jpg" alt="Lubrificantes" class="projectImg">                        </a>                        <div class="projectDetails row m0">                            <div class="fleft nameType">                                <div class="row m0 projectName">Óleo Automotivo 40SJ</div>                                <div class="row m0 projectType"><b>R$ 7,00</b></div>                            </div>                            <div class="fright projectIcons btn-group" role="group">                                <a href="#" style=" border-radius: 5px;" class="btn btn-default"><i class="fa fa-plus"></i></a>                                <a href="#" style="padding: 10px; border-radius: 5px; background-color: #006738;" class="btn-default"><i class="fa fa-lock"> comprar</i></a>                            </div>                        </div>                    </div>                </div>                              </div>        </div>    </section>    
     <section id="nr_services" class="row">
         <div class="container">
             <div class="row sectionTitles">
                 <h2 class="sectionTitle">PRINCIPAIS SERVIÇOS</h2>
                 <div class="sectionSubTitle">• • •</div>
             </div>
-            <div class="row m0 text-center">
-                <div class="col-sm-3">
+            <div class="row m0 text-center">            
+                <a href="servicos_tratamento_efluentes.php"><div class="col-sm-3">
                     <div class="row m0 service">
                         <div class="row m0 innerRow">
-                            <i class="fa fa-laptop"></i>
-                            <div class="serviceName" >COLETAS</div>
+                            <i class="fa fa-building-o"></i>
+                            <div class="serviceName" >TRATAMENTO</div>
                         </div>
                     </div>
-                </div>
-                <div class="col-sm-3">
+                </div></a>                
+                <a href="servicos_limpeza_industriais.php"><div class="col-sm-3">
                     <div class="row m0 service">
                         <div class="row m0 innerRow">
                             <i class="fa fa-film"></i>
                             <div class="serviceName" >LIMPEZAS</div>
                         </div>
                     </div>
-                </div>
-                <div class="col-sm-3">
+                </div></a>                
+                <a href="servicos_rerefino.php"><div class="col-sm-3">
                     <div class="row m0 service">
                         <div class="row m0 innerRow">
                             <i class="fa fa-clock-o"></i>
                             <div class="serviceName" >RERREFINO</div>
                         </div>
                     </div>
-                </div>
-                <div class="col-sm-3">
+                </div></a>                
+                <a href="servicos_analise.php"><div class="col-sm-3">
                     <div class="row m0 service">
                         <div class="row m0 innerRow">
-                            <i class="fa fa-building-o"></i>
+                            <i class="fa fa-laptop"></i>
                             <div class="serviceName" >ANÁLISES</div>
                         </div>
                     </div>
-                </div>
-            </div>            <section id="projects" class="row fullWidth col3 page">                        <div class="container">                    <div class="row">                <div class="row filters m0">                                        <ul class="list-inline text-center collapse navbar-collapse" >                                                <li class="filter" ><a href="#">SERVIÇO</a></li>                        <li class="filter" data-filter=".producao">Produção</li>                        <li class="filter" data-filter=".frota">Frota</li>                        <li class="filter" data-filter=".diversos">Diversos</li>                    </ul>                </div>                </div>                </div>                </section>
+                </div></a>                
+            </div>            
         </div>
     </section> <!--Services-->
     
@@ -232,8 +232,8 @@
         <div class="row projects m0">        
                         
             <div class="project mix">
-                <a href="images/estrutura/produ-06.jpg" data-lightbox="home" data-title="Área de Produção">
-                    <img src="images/estrutura/produ-06.jpg" alt="Área de Produção" class="projectImg">
+                <a href="images/estrutura/produ-05.jpg" data-lightbox="home" data-title="Área de Produção">
+                    <img src="images/estrutura/produ-05.jpg" alt="Área de Produção" class="projectImg">
                 </a>
             </div>            
             <div class="project mix">
