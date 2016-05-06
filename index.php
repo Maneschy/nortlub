@@ -98,18 +98,10 @@
                            data-speed="700"  
                            data-start="1700" 
                            data-easing="easeOutBack">
-                            <h3>Conheça nossa linha de<br/> óleos lubrificantes Automotivos</h3>
+                            <h3 style="font-weight: 900;">Conheça nossa linha de<br/> óleos lubrificantes e graxa</h3>
                        </div>
                       
-                       <div class="caption skewfromleft skewtoleft"  
-                           data-x="-100" 
-                           data-y="235"
-                           data-hoffset="-176" 
-                           data-speed="500" 
-                           data-start="1900" 
-                           data-easing="easeOutBack">
-                           <p style="font-weight: 400;">O processo de rerrefino é industrial de alta complexidade e <br/>tecnologia avançada, que transforma o óleo lubrificante <br/>usado em óleo mineral básico de alta qualidade, <br/>mantendo a mesma qualidade do primeiro refino,<br/> mesmo desempenho e produtividade.</p>
-                       </div>
+                       
                        <div class="caption sfb stb"  
                            data-x="-100" 
                            data-y="395" 
@@ -232,13 +224,13 @@
         <div class="row projects m0">        
                         
             <div class="project mix">
-                <a href="images/estrutura/produ-05.jpg" data-lightbox="home" data-title="Área de Produção">
-                    <img src="images/estrutura/produ-05.jpg" alt="Área de Produção" class="projectImg">
+                <a href="images/estrutura/produc-06.jpg" data-lightbox="home" data-title="Área de Produção">
+                    <img src="images/estrutura/produc-06.jpg" alt="Área de Produção" class="projectImg">
                 </a>
             </div>            
             <div class="project mix">
-                <a href="images/estrutura/produ-01-1.jpg" data-lightbox="home" data-title="Área de Produção">
-                    <img src="images/estrutura/produ-01-1.jpg" alt="Área de Produção" class="projectImg">
+                <a href="images/estrutura/laboratorio-03.jpg" data-lightbox="home" data-title="Área de Produção">
+                    <img src="images/estrutura/laboratorio-03.jpg" alt="Área de Produção" class="projectImg">
                 </a>
             </div>
             
@@ -285,7 +277,7 @@
         </div>
     </section> <!--Testimonials-->
     
-    <section id="elements" class="row">
+    <!--<section id="elements" class="row">
         <div class="row sectionTitles m0">
             <h2 class="sectionTitle">DÚVIDAS FREQUENTES</h2>
             <div class="sectionSubTitle">• • •</div>
@@ -312,7 +304,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div> <!--hAccordion No #1--> 
+                        </div> <!--hAccordion No #1--*> 
                         <div class="panel panel-default">
                             <div class="panel-heading" role="tab" id="heading2">
                                 <h4 class="panel-title">
@@ -331,7 +323,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div> <!--hAccordion No #2--> 
+                        </div> <!--hAccordion No #2--*> 
                         <div class="panel panel-default">
                             <div class="panel-heading" role="tab" id="heading3">
                                 <h4 class="panel-title">
@@ -350,7 +342,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div> <!--hAccordion No #3--> 
+                        </div> <!--hAccordion No #3--*> 
                         <div class="panel panel-default">
                             <div class="panel-heading" role="tab" id="heading4">
                                 <h4 class="panel-title">
@@ -369,7 +361,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div> <!--hAccordion No #4--> 
+                        </div> <!--hAccordion No #4--*> 
                         <div class="panel panel-default">
                             <div class="panel-heading" role="tab" id="heading5">
                                 <h4 class="panel-title">
@@ -388,13 +380,13 @@
                                     </div>
                                 </div>
                             </div>
-                        </div> <!--hAccordion No #5-->                        
+                        </div> <!--hAccordion No #5--*>                        
                     </div>
                 </div>
                 
             </div>
         </div>
-    </section> <!--Elements-->
+    </section>--> <!--Elements-->
     
     <?php include './footer_nortlub.php'; ?>
     
