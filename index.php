@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>NortLub Lubrificantes</title>
+    <title>NortLub Lubrificantes</title>    <meta content="A Nortlub vem conquistando um importante espaço, sendo reconhecida como uma das principais empresas do ramo de reciclagem, competindo num mercado globalizado antecipando-se as novas tendências, com transparência, qualidade e tecnologia." name="description"/>    <meta name="keywords" content="ÓLEOS MINERAIS, OLUC, RECICLAGEM, TRATAMENTO DE ÁGUA, RERREFINO, LIMPEZA INDUSTRIAL, ANÁLISE LABORATORIAL, LUBRIFICANTES, GRAXA " />    <meta content="" name="Maneschy.com"/>
     
     <!--Favicons-->
     <link rel="apple-touch-icon" sizes="57x57" href="favicon/apple-touch-icon-57x57.png">
@@ -40,55 +40,55 @@
         <div class="loader-item"><img src="images/loader-lub.png" alt="carregando"></div>
     </div> 
    
-    <?php include './menu_nortlub.php'; ?>     
+    <?php include './menu_nortlub.php'; ?>     
     <section id="nr_slider" class="row">
         <div class="mainSliderContainer">
             <div class="mainSlider" >
                 <ul>
                     <!-- SLIDE  -->
                     <li data-transition="boxslide" data-slotamount="7" >
-                       <img src="images/slider/arara.jpg" alt="slidebg1"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
-                       <div class="caption sfr str"  
+                       <img src="images/slider/montagem-01.jpg" alt="slidebg1"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
+                       <div class="caption sfr str sombra"  
                            data-x="center" 
-                           data-y="140" 
+                           data-y="60" 
                            data-speed="700"  
                            data-start="1700" 
                            data-easing="easeOutBack">
-                            <h2>Estamos <strong>JUNTOS</strong> com a natureza</h2>
+                            <h2 style="font-weight: 500;" >Estamos <strong style="font-weight: 900;">JUNTOS</strong> com a natureza</h2>
                        </div>
                        <div class="caption sfl stl"  
                            data-x="center" 
-                           data-y="225" 
+                           data-y="305" 
                            data-speed="500" 
                            data-start="1900" 
                            data-easing="easeOutBack">
-                            <div class="center"><p style="font-weight: 300; text-align: center;">This is Photoshop's version of Lorem Ipsum. Proin gravi-<br>da nibh vel velit auctor aliquet. Aenean solicitudin. lorem <br>quis bibendum auctor, nisi elit consequant.</p></div>
-                       </div>
+                            <div class="center sombra"><p style="font-weight: 500; font-size: 170%; text-align: center;">Estamos juntos na preservação da natureza, <br/>a <b style="font-weight: 900;">NortLub</b> faz o descarte e reciclagem correta dos resíduos.</p></div>
+                       </div>                       
                        <div class="caption skewfromleft skewtoleft"  
                            data-x="center" 
-                           data-y="310"
-                           data-hoffset="-306" 
+                           data-y="380"
+                           data-hoffset="-406" 
                            data-speed="500" 
                            data-start="1900" 
                            data-easing="easeOutBack"><div class="ico_box"><a href="#"><img src="images/selos/selo-arara.png" alt="brifcase"></a></div>
                        </div>
                        <div class="caption sfb stb"  
                            data-x="center" 
-                           data-y="310" 
-                           data-hoffset="-105"
+                           data-y="380" 
+                           data-hoffset="-205"
                            data-speed="500" 
                            data-start="1900" 
                            data-easing="easeOutBack"><div class="ico_box"><a href="#"><img src="images/selos/selo-aguia.png" alt="brifcase"></a></div>
-                       </div>                                              <div class="caption sfb stb"                             data-x="center"                            data-y="310"                            data-hoffset="90"                           data-speed="500"                            data-start="1900"                            data-easing="easeOutBack"><div class="ico_box"><a href="#"><img src="images/selos/selo-onca.png" alt="brifcase"></a></div>                       </div>
+                       </div>                                                                     <div class="caption sfb stb"                                                    		data-x="center"                                                   		data-y="380"                                                   		data-hoffset="0"                                                  		data-speed="500"                                                   		data-start="1900"                                                   		data-easing="easeOutBack"><div class="ico_box"><a href="#"><img src="images/selos/selo-onca.png" alt="brifcase"></a></div>                                              </div>                       
                        <div class="caption skewfromright skewtoright"  
                            data-x="center" 
-                           data-y="310" 
-                           data-hoffset="290"
+                           data-y="380" 
+                           data-hoffset="205"
                            data-speed="500" 
                            data-start="1900" 
                            data-easing="easeOutBack"><div class="ico_box"><a href="#"><img src="images/selos/selo-boto.png" alt="brifcase"></a></div>
-                       </div>                       
-                    </li>  
+                       </div>                                                <div class="caption skewfromright skewtoright"                             data-x="center"                            data-y="380"                            data-hoffset="406"                           data-speed="500"                            data-start="1900"                            data-easing="easeOutBack"><div class="ico_box"><a href="#"><img src="images/selos/selo-macaco.png" alt="brifcase"></a></div>                       </div>                      
+                    </li>                                          
                     <!-- SLIDE 2 -->
                     <li data-transition="fadeslide" data-slotamount="7" >
                        <img src="images/slider/fundo-vermelho.jpg" alt="slidebg1"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
@@ -98,7 +98,7 @@
                            data-speed="700"  
                            data-start="1700" 
                            data-easing="easeOutBack">
-                            <h3 style="font-weight: 900;">Conheça nossa linha de<br/> óleos lubrificantes e graxa</h3>
+                            <h2 style="font-weight: 300; text-align: left;">Conheça nossa<br/> linha de óleos<br/> lubrificantes e graxa</h2>
                        </div>
                       
                        
@@ -109,21 +109,21 @@
                            data-speed="500" 
                            data-start="1900" 
                            data-easing="easeOutBack">
-                           <a href="#" type="button" class="btn btn-default">Conheça mais</a>
+                           <a href="produtos_oleos.php" type="button" class="btn btn-default">Conheça mais</a>
                        </div>
                        <div class="caption skewfromright skewtoright"  
                            data-x="right" 
                            data-y="80" 
-                           data-hoffset="176"
+                           data-hoffset="-26"
                            data-speed="500" 
                            data-start="1900" 
-                           data-easing="easeOutBack"><div class="tools"><img src="images/slider/pack-01.png" alt="brifcase"></div>
-                       </div>                      
+                           data-easing="easeOutBack"><div class="tools"><img src="images/slider/pack-02.png" alt="brifcase"></div>
+                       </div>                                                 <div class="caption skewfromright skewtoright"                             data-x="right"                            data-y="330"                            data-hoffset="-290"                           data-speed="500"                            data-start="2300"                            data-easing="easeOutBack"><div class="tools"><img src="images/slider/pack-balde.png" alt="brifcase"></div>                       </div>                                               <div class="caption skewfromright skewtoright"                             data-x="right"                            data-y="310"                            data-hoffset="56"                           data-speed="1000"                            data-start="2700"                            data-easing="easeOutBack"><div class="tools"><img src="images/slider/pack-GRAXA.png" alt="brifcase"></div>                       </div>                   
                     </li>  
                     <!-- SLIDE 3 -->
-                    <li data-transition="boxslide" data-slotamount="7" >
-                       <img src="images/slider/slide1.jpg" alt="slidebg1"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
-                       <!--<div class="caption sfr str"  
+                    <!-- <li data-transition="boxslide" data-slotamount="7" >
+                       <img src="images/slider/slide7.jpg" alt="slidebg1"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
+                      <div class="caption sfr str"  
                            data-x="-100" 
                            data-y="135" 
                            data-speed="700"  
@@ -170,15 +170,15 @@
             </div>
         </div>
         
-    </section> <!--Slider-->    <br/><br/>
-    <section id="projects" class="row fullWidth col3 page">                <div class="container">        <div class="row sectionTitles">            <h2 class="sectionTitle">PRODUTOS</h2>            <div class="sectionSubTitle">Seja um revendedor, <a href="contato.php">clique aqui</a></div>        </div>            <div class="row">                        <div class="row projects m0">                                    <div class="project mix">                        <a href="images/produtos/oleo-nautico.jpg" data-lightbox="nautico" data-title="Óleo Lubrificante Náutico 30TCW3">                            <img src="images/produtos/oleo-nautico.jpg" alt="Lubrificantes" class="projectImg">                        </a>                        <div class="projectDetails row m0 ">                            <div class="fleft nameType">                                <div class="row m0 projectName">Óleo Náutico 30TCW3</div>                                <div class="row m0 projectType"><b>R$ 7,00</b></div>                            </div>                            <div class="fright projectIcons btn-group" role="group">                                <a href="#" style=" border-radius: 5px;" class="btn btn-default"><i class="fa fa-plus"></i></a>                                <a href="#" style="padding: 10px; border-radius: 5px; background-color: #006738;" class="btn-default"><i class="fa fa-lock"> comprar</i></a>                            </div>                        </div>                    </div>                                        <div class="project mix">                        <a href="images/produtos/graxa-solida.jpg" data-lightbox="graxa" data-title="Graxa Sólida AM2 NORTLUB">                            <img src="images/produtos/graxa-solida.jpg" alt="GRAXAS" class="projectImg">                        </a>                        <div class="projectDetails row m0">                            <div class="fleft nameType">                                <div class="row m0 projectName">Graxa Sólida AM2</div>                                <div class="row m0 projectType"><b>R$ 7,00</b></div>                            </div>                            <div class="fright projectIcons btn-group" role="group">                                <a href="#" style=" border-radius: 5px;" class="btn btn-default"><i class="fa fa-plus"></i></a>                                <a href="#" style="padding: 10px; border-radius: 5px; background-color: #006738;" class="btn-default"><i class="fa fa-lock"> comprar</i></a>                            </div>                        </div>                    </div>                                        <div class="project mix">                        <a href="images/produtos/oleo-automotivo.jpg" data-lightbox="automotivo" data-title="Óleo Lubrificante Automotivo 40SJ">                            <img src="images/produtos/oleo-automotivo.jpg" alt="Lubrificantes" class="projectImg">                        </a>                        <div class="projectDetails row m0">                            <div class="fleft nameType">                                <div class="row m0 projectName">Óleo Automotivo 40SJ</div>                                <div class="row m0 projectType"><b>R$ 7,00</b></div>                            </div>                            <div class="fright projectIcons btn-group" role="group">                                <a href="#" style=" border-radius: 5px;" class="btn btn-default"><i class="fa fa-plus"></i></a>                                <a href="#" style="padding: 10px; border-radius: 5px; background-color: #006738;" class="btn-default"><i class="fa fa-lock"> comprar</i></a>                            </div>                        </div>                    </div>                </div>                              </div>        </div>    </section>    
+    </section> <!--Slider-->    <br/><br/>
+    <section id="projects" class="row fullWidth col3 page">                <div class="container">        <div class="row sectionTitles">            <h2 class="sectionTitle">PRODUTOS</h2>            <div class="sectionSubTitle">Seja um revendedor, <a href="contato.php">clique aqui</a></div>        </div>            <div class="row">                        <div class="row projects m0">                                    <div class="project mix">                        <a href="images/produtos/oleo-nautico.jpg" data-lightbox="nautico" data-title="Óleo Lubrificante Náutico 30TCW3">                            <img src="images/produtos/oleo-nautico.jpg" alt="Lubrificantes" class="projectImg">                        </a>                        <div class="projectDetails row m0 ">                            <div class="fleft nameType">                                <div class="row m0 projectName">Óleo Náutico 30TCW3</div>                                <div class="row m0 projectType">•••</div>                            </div>                            <div class="fright projectIcons btn-group" role="group">                                <a href="produtos_oleos.php" style=" border-radius: 5px;" class="btn btn-default"><i class="fa fa-plus"></i></a>                                <a href="contato.php" style="padding: 10px; border-radius: 5px; background-color: #006738;" class="btn-default"><i class="fa fa-lock"> comprar</i></a>                            </div>                        </div>                    </div>                                        <div class="project mix">                        <a href="images/produtos/graxa-solida.jpg" data-lightbox="graxa" data-title="Graxa Sólida AM2 NORTLUB">                            <img src="images/produtos/graxa-solida.jpg" alt="GRAXAS" class="projectImg">                        </a>                        <div class="projectDetails row m0">                            <div class="fleft nameType">                                <div class="row m0 projectName">Graxa Sólida AM2</div>                                <div class="row m0 projectType"><b>•••</b></div>                            </div>                            <div class="fright projectIcons btn-group" role="group">                                <a href="produtos_graxas.php" style=" border-radius: 5px;" class="btn btn-default"><i class="fa fa-plus"></i></a>                                <a href="contato.php" style="padding: 10px; border-radius: 5px; background-color: #006738;" class="btn-default"><i class="fa fa-lock"> comprar</i></a>                            </div>                        </div>                    </div>                                        <div class="project mix">                        <a href="images/produtos/oleo-automotivo.jpg" data-lightbox="automotivo" data-title="Óleo Lubrificante Automotivo 40SJ">                            <img src="images/produtos/oleo-automotivo.jpg" alt="Lubrificantes" class="projectImg">                        </a>                        <div class="projectDetails row m0">                            <div class="fleft nameType">                                <div class="row m0 projectName">Óleo Automotivo 40SJ</div>                                <div class="row m0 projectType"><b>•••</b></div>                            </div>                            <div class="fright projectIcons btn-group" role="group">                                <a href="produtos_oleos.php" style=" border-radius: 5px;" class="btn btn-default"><i class="fa fa-plus"></i></a>                                <a href="contato.php" style="padding: 10px; border-radius: 5px; background-color: #006738;" class="btn-default"><i class="fa fa-lock"> comprar</i></a>                            </div>                        </div>                    </div>                </div>                              </div>        </div>    </section>    
     <section id="nr_services" class="row">
         <div class="container">
             <div class="row sectionTitles">
                 <h2 class="sectionTitle">PRINCIPAIS SERVIÇOS</h2>
                 <div class="sectionSubTitle">• • •</div>
             </div>
-            <div class="row m0 text-center">            
+            <div class="row m0 text-center">            
                 <a href="servicos_tratamento_efluentes.php"><div class="col-sm-3">
                     <div class="row m0 service">
                         <div class="row m0 innerRow">
@@ -186,7 +186,7 @@
                             <div class="serviceName" >TRATAMENTO</div>
                         </div>
                     </div>
-                </div></a>                
+                </div></a>                
                 <a href="servicos_limpeza_industriais.php"><div class="col-sm-3">
                     <div class="row m0 service">
                         <div class="row m0 innerRow">
@@ -194,7 +194,7 @@
                             <div class="serviceName" >LIMPEZAS</div>
                         </div>
                     </div>
-                </div></a>                
+                </div></a>                
                 <a href="servicos_rerefino.php"><div class="col-sm-3">
                     <div class="row m0 service">
                         <div class="row m0 innerRow">
@@ -202,7 +202,7 @@
                             <div class="serviceName" >RERREFINO</div>
                         </div>
                     </div>
-                </div></a>                
+                </div></a>                
                 <a href="servicos_analise.php"><div class="col-sm-3">
                     <div class="row m0 service">
                         <div class="row m0 innerRow">
@@ -210,8 +210,8 @@
                             <div class="serviceName" >ANÁLISES</div>
                         </div>
                     </div>
-                </div></a>                
-            </div>            
+                </div></a>                
+            </div>            
         </div>
     </section> <!--Services-->
     
@@ -221,13 +221,13 @@
             <div class="sectionSubTitle">Veja tudo <a href="nortlub_estrutura.php">aqui</a></div>
         </div>
         
-        <div class="row projects m0">        
-                        
+        <div class="row projects m0">        
+                        
             <div class="project mix">
                 <a href="images/estrutura/produc-06.jpg" data-lightbox="home" data-title="Área de Produção">
                     <img src="images/estrutura/produc-06.jpg" alt="Área de Produção" class="projectImg">
                 </a>
-            </div>            
+            </div>            
             <div class="project mix">
                 <a href="images/estrutura/laboratorio-03.jpg" data-lightbox="home" data-title="Área de Produção">
                     <img src="images/estrutura/laboratorio-03.jpg" alt="Área de Produção" class="projectImg">
@@ -254,23 +254,23 @@
                 <div class="owl-carousel testimonialSlider row m0">
                     <div class="item">
                         <div class="clientPhoto row m0">
-                            <img src="images/testimonial/photo.png" alt="">
+                            <img src="images/selos/simbolo-nort.png" alt="">
                         </div>
-                        <div class="clientNameTitle row m0">Fulano de Tal, Diretor da Honda</div>
+                        <div class="clientNameTitle row m0">Sr. Wagner</div>
                         <div class="arrow row m0">
                             <img src="images/testimonial/arrow.png" alt="arrow down">
                         </div>
-                        <div class="testimonial row m0">This is Photoshop's version of Lorem Ipsum Proin gravida nibh vel velit auctor aliquet. Aenean Sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum,</div>
+                        <div class="testimonial row m0">"Agradeço a Nortlub por tudo que tem me ajudado não só financeiramente mas como no meu crescimento profissional. É uma Empresa ótima e correta de se trabalhar."</div>
                     </div>
                     <div class="item">
                         <div class="clientPhoto row m0">
-                            <img src="images/testimonial/photo.png" alt="">
+                            <img src="images/selos/simbolo-nort.png" alt="">
                         </div>
-                        <div class="clientNameTitle row m0">Ciclano da Silva, Gerente Geral</div>
+                        <div class="clientNameTitle row m0">Sr. Julinei</div>
                         <div class="arrow row m0">
                             <img src="images/testimonial/arrow.png" alt="arrow down">
                         </div>
-                        <div class="testimonial row m0">This is Photoshop's version of Lorem Ipsum Proin gravida nibh vel velit auctor aliquet. Aenean Sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum,</div>
+                        <div class="testimonial row m0"> "A Nortlub me ofereceu uma oportunidade de trabalho onde melhorou muito minha qualidade de vida , estou conseguindo realizar minhas metas que não conseguia realizar."</div>
                     </div>
                 </div>
             </div>

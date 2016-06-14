@@ -19,7 +19,7 @@
     <link rel="stylesheet" href="css/bootstrap-theme.min.css">
     <link rel="stylesheet" href="css/font-awesome.min.css">
     <link rel="stylesheet" href="vendors/owl.carousel/css/owl.carousel.css">
-    <link rel="stylesheet" type="text/css" href="vendors/rs-plugin/css/settings.css" media="screen" />    
+    <link rel="stylesheet" type="text/css" href="vendors/rs-plugin/css/settings.css" media="screen" />    
     <link rel="stylesheet" type="text/css" href="vendors/lightbox/css/lightbox.css" media="screen" />
     
     <!--Fonts-->
@@ -39,9 +39,36 @@
         <div class="loader-item"><img src="images/loader-lub.png" alt="carregando"></div>
     </div> 
    
-    <?php include './menu_nortlub.php'; ?>     
-    <section id="pageCover" class="row aboutUs">        <div class="row pageTitle">LIMPEZA INDUSTRIAL</div>    </section>            <section id="blogs" class="row">            <div class="container">                <div class="row">                    <div class="col-sm-9">                        <div class="row">                            <div class="row blog sinlge-blog">                                <div class="row m0 blogInner">                                    <div class="row m0 featureImg">                                        <a href="single-post.html">                                            <img src="images/servicos/limpeza.jpg" alt="LIMPEZA DE TANQUE" class="img-responsive">                                        </a>                                    </div>                                    <div class="row m0 postExcerpts">                                        <div class="row m0 postExcerptInner">                                            <a href="single-post.html" class="postTitle row m0"><h4>LIMPEZA DE CAIXAS SEPARADORAS, BALSAS e TANQUES</h4></a>                                            <p>Através do sistema de Hidrojateamento e Auto Vácuo, executamos os serviços de limpeza em tanques de armazenamento de combustíveis(subterrâneos e aéreos), limpeza de caixas separadoras(CSAO),limpeza de balsas e outros serviços.<BR/><BR/>
-                                            Nossos Colaborados possuem treinamento conforme NR33 (Segurança e saúde no trabalho em espaços confinados) NR35 (Trabalho em altura).                                            </p>                                        </div>                                    </div>                                </div>                            </div>                                                                                                    </div>                    </div>                                       <?php include './menu_nortlub_servicos.php'; ?>                                     </div>                        </div>                    </section>                            </div>                    </div>  
+    <?php include './menu_nortlub.php'; ?>     
+    <section id="pageCover" class="row aboutUs">        <div class="row pageTitle">LIMPEZA INDUSTRIAL</div>    </section>            <section id="blogs" class="row">            <div class="container">                <div class="row">                    <div class="col-sm-9">                        <div class="row">                            <div class="row blog sinlge-blog">                                <div class="row m0 blogInner">                                    <div class="row m0 featureImg">                                        <a href="single-post.html">                                            <img src="images/servicos/limpeza.jpg" alt="LIMPEZA DE TANQUE" class="img-responsive">                                        </a>                                    </div>                                    <div class="row m0 postExcerpts">                                        <div class="row m0 postExcerptInner">                                            <a href="single-post.html" class="postTitle row m0"><h4>LIMPEZA DE CAIXAS SEPARADORAS, BALSAS e TANQUES</h4></a>                                            <p>Através do sistema de Hidrojateamento e Auto Vácuo, executamos os serviços de limpeza em tanques de armazenamento de combustíveis(subterrâneos e aéreos), limpeza de caixas separadoras(CSAO),limpeza de balsas e outros serviços.<BR/><BR/>
+                                            Nossos Colaborados possuem treinamento conforme NR33 (Segurança e saúde no trabalho em espaços confinados) NR35 (Trabalho em altura).                                            </p>                                        </div>
+                                        
+                                        <section id="projects" class="row fullWidth">
+                                            <div class="row projects m0">
+                                            
+                                                
+                                                
+                                                <div class="project mix">
+                                                    <a href="images/servicos/limpeza-02.jpg" data-lightbox="limpeza" data-title="Limpeza Indutrial">
+                                                        <img src="images/servicos/limpeza-02.jpg" alt="Limpeza Indutrial" class="projectImg">
+                                                    </a>
+                                                </div>
+                                                
+                                                <div class="project mix">
+                                                    <a href="images/servicos/limpeza-03.jpg" data-lightbox="limpeza" data-title="Limpeza Indutrial">
+                                                        <img src="images/servicos/limpeza-03.jpg" alt="Limpeza Indutrial" class="projectImg">
+                                                    </a>
+                                                </div>
+                                                
+                                                <div class="project mix">
+                                                    <a href="images/servicos/limpeza-04.big.jpg" data-lightbox="limpeza" data-title="Limpeza Indutrial">
+                                                        <img src="images/servicos/limpeza-04.min.jpg" alt="Limpeza Indutrial" class="projectImg">
+                                                    </a>
+                                                </div>
+                                            </div>        
+                                        </section>
+                                                                            </div>
+                                                                    </div>                            </div>                                                                                                    </div>                    </div>                                       <?php include './menu_nortlub_servicos.php'; ?>                                     </div>                        </div>                    </section>                            </div>                    </div>  
     
     <?php include './footer_nortlub.php'; ?>
     

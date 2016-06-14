@@ -60,10 +60,10 @@ $(document).ready(function(){
             loop:true,
             margin:0,
             nav:false,
-            items:1,
+            items:2,
             dots:false,
             lazyLoad: true,
-            autoplay: true
+            autoplay: false
         });  
     
     

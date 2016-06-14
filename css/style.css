@@ -344,7 +344,7 @@ a:hover {
 /*Header*/
 header {
   height: 105px;
-  padding: 31px 0;  margin-bottom: 25px;  background: url("../images/bg-concrete.png") repeat;     
+  padding: 31px 0;  margin-bottom: 25px;  background: url("../images/bg-concrete.png") repeat;     
 }
 header .logo {
   line-height: 43px;
@@ -1363,7 +1363,7 @@ header .social_nav ul li:last-child {
   background: #000;
   color: #FFF;
   font-family: 'Raleway', sans-serif;
-  transition: all 300ms ease-in-out;  
+  transition: all 300ms ease-in-out;  
 }
 #projects .project.mix .projectDetails .nameType {
   transition: all 300ms ease-in-out;
@@ -1431,7 +1431,7 @@ header .social_nav ul li:last-child {
   bottom: 0;
 }
 #projects.col3 .project .projectDetails .nameType .projectName {
-  font-size: 20px;  
+  font-size: 20px;  
 }
 #projects.col3 .project .projectDetails .nameType .projectType {
   color: rgba(255, 255, 255, 0.4);
@@ -3096,4 +3096,5 @@ header .social_nav ul li:last-child {
 /*----------------------------------------------------------------*/
 /*Responsive Styles*/
 /*----------------------------------------------------------------*/
-/*----------------------------------------------------------------*/
+/*----------------------------------------------------------------*/.sombra {	 text-shadow: 2px 2px #000;}
+.sombra-peq {	 text-shadow: 1px 1px #000;}
